@@ -5,9 +5,9 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 ## Job History and Geography and so on
 
 
-## Chemia
+## Chemia2
 
-## WOS1
+## WOS2
 
 ### GitHub Trainer
 
@@ -19,7 +19,7 @@ Provide world class support to customers on the GitHub platform
 
 ## Skills
 
-## ZPT1
+## ZPT2
 
 ### Education
 
