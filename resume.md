@@ -2,7 +2,8 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Jobs Geography and so on
+## Job History and Geography and so on
+
 
 ### GitHub Trainer
 
