@@ -7,7 +7,7 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Chemia
 
-## WOS1
+## WOS5
 
 ## WF
 
@@ -21,7 +21,7 @@ Provide world class support to customers on the GitHub platform
 
 ## Skills
 
-## ZPT1
+## ZPT5
 
 ### Education
 
