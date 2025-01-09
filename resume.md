@@ -7,7 +7,7 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Chemia
 
-## WOS
+## WOS1
 
 ### GitHub Trainer
 
