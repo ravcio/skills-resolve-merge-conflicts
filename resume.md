@@ -5,6 +5,8 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 ## Job History and Geography and so on
 
 
+## Chemia
+
 ## WOS
 
 ## WF
@@ -18,6 +20,8 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
+
+## ZPT
 
 ### Education
 
